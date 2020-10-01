@@ -72,6 +72,18 @@
 			<artifactId>spring-security-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		
+  <dependency>
+   <groupId>org.webjars</groupId>
+   <artifactId>startbootstrap-sb-admin-2</artifactId>
+   <version>4.0.6</version>
+  </dependency>
+		<dependency>
+		 <groupId>org.webjars</groupId>
+		 <artifactId>webjars-locator</artifactId>
+		 <version>0.40</version>
+		</dependency>
+		
 	</dependencies>
 
 	<build>
